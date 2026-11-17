@@ -132,7 +132,7 @@
         <!-- PERSONAL PROFILE -->
         <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 10px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Candidate Profile</h3>
         <p style="color: #444444; margin: 0 0 26px 0; font-size: 0.9em; text-align: justify;">
-          High-achieving English Communication Arts scholar (4.00 GPA) and dedicated educator committed to academic excellence, inclusive pedagogy, and social impact. Experienced in leading youth empowerment initiatives, digital literacy training, and educational outreach for underserved and displaced communities. Recognized as a United Board and DISP Scholar for outstanding academic merit and civic leadership.
+         A high-achieving English Communication Arts student at Payap University with a 4.00 GPA and a strong commitment to academic excellence, leadership, and community service. A former DISP Scholar and current United Board Scholar, with experience in teaching, youth empowerment initiatives, digital literacy training, and educational outreach for underserved and displaced communities. Passionate about using education, communication, and leadership skills to make a positive contribution to society.
         </p>
 
         <!-- 2. EDUCATION & ACADEMIC PERFORMANCE -->
