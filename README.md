@@ -21,7 +21,7 @@
     <div style="display: flex; align-items: center; justify-content: space-between; background: linear-gradient(135deg, #fdf8fd 0%, #f5e4f4 100%); padding: 55px 50px; color: #333; border-bottom: 1px solid #f0caee; width: 950px; box-sizing: border-box; position: relative; overflow: hidden;">
       
       <!-- Subtle creative geometric background grids -->
-      <div style="position: absolute; top: -20px; right: -20px; width: 180px; height: 180px; background-image: radial-gradient(rgba(214, 34, 205, 0.15) 1.5px, transparent 1.5px); background-size: 12px 12px; pointer-events: none; opacity: 0.7;"></div>
+      <div style="position: absolute; top: -20px; right: -20px; width: 180px; height: 180px; background-https://github.com/miayemonsan/ayemonsan.sst.cv/blob/cd63a218c5bbd4a610b58fcbbd53bf337fc62003/profile.jpeg: radial-gradient(rgba(214, 34, 205, 0.15) 1.5px, transparent 1.5px); background-size: 12px 12px; pointer-events: none; opacity: 0.7;"></div>
       <div style="position: absolute; bottom: 0; left: 10%; width: 300px; height: 4px; background: linear-gradient(90deg, transparent, rgba(214, 34, 205, 0.2), transparent);"></div>
 
       <!-- Left Content Column -->
