@@ -198,7 +198,7 @@
         <div style="margin-bottom: 16px;">
           <div style="display: flex; justify-content: space-between; align-items: baseline;">
             <span style="font-size: 1.02em; font-weight: 700; color: #222;">English Teaching Assistance Intern (Upcoming)</span>
-            <span style="color: #777777; font-size: 0.84em; font-weight: 500;">Expected January 2027</span>
+            <span style="color: #777777; font-size: 0.84em; font-weight: 500;"> January 2027</span>
           </div>
           <div style="color: #D622CD; font-weight: 600; font-size: 0.88em;">Nakornpayap International School</div>
         </div>
