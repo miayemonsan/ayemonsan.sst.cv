@@ -45,66 +45,64 @@
       </div>
     </div>
 
-    <!-- MAIN BODY LAYOUT (BALANCED COLUMNS) -->
+    <!-- MAIN BODY LAYOUT (EVENLY DISTRIBUTED FLOW) -->
     <div style="display: flex; align-items: stretch; background: #ffffff; width: 950px; box-sizing: border-box;">
 
-      <!-- LEFT SIDEBAR (Widened slightly to 360px & structured cleanly to match right column height) -->
+      <!-- LEFT SIDEBAR -->
       <div style="width: 360px; min-width: 360px; background: #faf8fc; padding: 40px 35px; border-right: 1px solid #f5eef4; line-height: 1.7; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
         
+        <!-- CONTACT & DETAILS -->
         <div>
-          <!-- CONTACT & DETAILS -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Contact & Details</h3>
-            <div style="font-size: 0.9em; line-height: 1.8;">
-              <p style="margin: 6px 0;"><b>Phone:</b> 092-396-9849</p>
-              <p style="margin: 6px 0;"><b>Email:</b> <a href="mailto:miayemonsan34@gmail.com" style="color: #D622CD; text-decoration: none; font-weight: 600;">miayemonsan34@gmail.com</a></p>
-              <p style="margin: 6px 0;"><b>Location:</b> Chiang Mai, Thailand</p>
-              <p style="margin: 6px 0;"><b>Nationality:</b> Myanmar</p>
-            </div>
+          <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Contact & Details</h3>
+          <div style="font-size: 0.9em; line-height: 1.8;">
+            <p style="margin: 6px 0;"><b>Phone:</b> 092-396-9849</p>
+            <p style="margin: 6px 0;"><b>Email:</b> <a href="mailto:miayemonsan34@gmail.com" style="color: #D622CD; text-decoration: none; font-weight: 600;">miayemonsan34@gmail.com</a></p>
+            <p style="margin: 6px 0;"><b>Location:</b> Chiang Mai, Thailand</p>
+            <p style="margin: 6px 0;"><b>Nationality:</b> Myanmar</p>
           </div>
+        </div>
 
-          <!-- SCHOLARSHIPS -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Scholarships</h3>
-            <ul style="padding-left: 18px; margin: 0; font-size: 0.9em; color: #333; line-height: 1.65;">
-              <li style="margin-bottom: 12px;">
-                <b>United Board Scholar (Current)</b><br>
-                <span style="color: #555; font-size: 0.92em;">United Board for Christian Higher Education in Asia</span>
-              </li>
-              <li>
-                <b>DISP Scholar (Former)</b><br>
-                <span style="color: #555; font-size: 0.92em;">Diversity and Inclusive Scholarship Program</span>
-              </li>
-            </ul>
-          </div>
+        <!-- SCHOLARSHIPS -->
+        <div>
+          <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Scholarships</h3>
+          <ul style="padding-left: 18px; margin: 0; font-size: 0.9em; color: #333; line-height: 1.65;">
+            <li style="margin-bottom: 12px;">
+              <b>United Board Scholar (Current)</b><br>
+              <span style="color: #555; font-size: 0.92em;">United Board for Christian Higher Education in Asia</span>
+            </li>
+            <li>
+              <b>DISP Scholar (Former)</b><br>
+              <span style="color: #555; font-size: 0.92em;">Diversity and Inclusive Scholarship Program</span>
+            </li>
+          </ul>
+        </div>
 
-          <!-- AWARDS & RECOGNITION (Moved to Sidebar to create a 50/50 visual height balance) -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Awards & Recognition</h3>
-            <ul style="padding-left: 18px; margin: 0; color: #333; font-size: 0.88em; line-height: 1.65;">
-              <li style="margin-bottom: 8px;"><b>Academic Excellence Award</b><br><span style="color: #666;">Payap University</span></li>
-              <li style="margin-bottom: 8px;"><b>Best Presentation Award</b><br><span style="color: #666;">Payap University Academic Seminar</span></li>
-              <li style="margin-bottom: 8px;"><b>Talent Show Award</b><br><span style="color: #666;">Payap University Open House</span></li>
-              <li style="margin-bottom: 8px;"><b>Environmental Video Competition Recognition</b><br><span style="color: #666;">Payap University</span></li>
-              <li><b>Volunteer Project Recognition</b><br><span style="color: #666;">Ban San Sai School</span></li>
-            </ul>
-          </div>
+        <!-- AWARDS & RECOGNITION -->
+        <div>
+          <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Awards & Recognition</h3>
+          <ul style="padding-left: 18px; margin: 0; color: #333; font-size: 0.88em; line-height: 1.65;">
+            <li style="margin-bottom: 8px;"><b>Academic Excellence Award</b><br><span style="color: #666;">Payap University</span></li>
+            <li style="margin-bottom: 8px;"><b>Best Presentation Award</b><br><span style="color: #666;">Payap University Academic Seminar</span></li>
+            <li style="margin-bottom: 8px;"><b>Talent Show Award</b><br><span style="color: #666;">Payap University Open House</span></li>
+            <li style="margin-bottom: 8px;"><b>Environmental Video Competition Recognition</b><br><span style="color: #666;">Payap University</span></li>
+            <li><b>Volunteer Project Recognition</b><br><span style="color: #666;">Ban San Sai School</span></li>
+          </ul>
+        </div>
 
-          <!-- LANGUAGES -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Languages</h3>
-            <ul style="padding-left: 18px; margin: 0; font-size: 0.9em; line-height: 1.75;">
-              <li style="margin: 4px 0;"><b>Mon</b> <span style="color: #666;">– Native</span></li>
-              <li style="margin: 4px 0;"><b>Burmese</b> <span style="color: #666;">– Fluent</span></li>
-              <li style="margin: 4px 0;"><b>English</b> <span style="color: #666;">– Proficient</span></li>
-              <li style="margin: 4px 0;"><b>Thai</b> <span style="color: #666;">– Basic</span></li>
-            </ul>
-          </div>
+        <!-- LANGUAGES -->
+        <div>
+          <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Languages</h3>
+          <ul style="padding-left: 18px; margin: 0; font-size: 0.9em; line-height: 1.75;">
+            <li style="margin: 4px 0;"><b>Mon</b> <span style="color: #666;">– Native</span></li>
+            <li style="margin: 4px 0;"><b>Burmese</b> <span style="color: #666;">– Fluent</span></li>
+            <li style="margin: 4px 0;"><b>English</b> <span style="color: #666;">– Proficient</span></li>
+            <li style="margin: 4px 0;"><b>Thai</b> <span style="color: #666;">– Basic</span></li>
+          </ul>
         </div>
 
         <!-- CERTIFICATIONS -->
         <div>
-          <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Certifications</h3>
+          <h3 style="color: #D622CD; font-size: 1.1em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Certifications</h3>
           <ul style="padding-left: 18px; margin: 0; font-size: 0.87em; color: #444444; line-height: 1.65;">
             <li style="margin: 6px 0;">TEFL Certification</li>
             <li style="margin: 6px 0;">Teaching English to Refugees and Displaced Learners</li>
@@ -117,101 +115,99 @@
 
       </div>
 
-      <!-- RIGHT MAIN CONTENT (Adjusted to 590px with balanced spacing) -->
+      <!-- RIGHT MAIN CONTENT -->
       <div style="width: 590px; min-width: 590px; padding: 40px 45px; line-height: 1.7; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
 
+        <!-- STUDENT PROFILE -->
         <div>
-          <!-- STUDENT PROFILE -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 12px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Student Profile</h3>
-            <p style="color: #444444; margin: 0; font-size: 0.92em; text-align: justify; line-height: 1.75;">
-              A high-achieving English Communication Arts student at Payap University with a 4.00 GPA and a strong commitment to academic excellence, leadership, and community service. A former DISP Scholar and current United Board Scholar, with experience in teaching, educational initiatives, digital literacy training, and community outreach for underserved and displaced learners. Passionate about using education and communication to make a positive contribution to society.
-            </p>
-          </div>
+          <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 12px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Student Profile</h3>
+          <p style="color: #444444; margin: 0; font-size: 0.92em; text-align: justify; line-height: 1.75;">
+            A high-achieving English Communication Arts student at Payap University with a 4.00 GPA and a strong commitment to academic excellence, leadership, and community service. A former DISP Scholar and current United Board Scholar, with experience in teaching, educational initiatives, digital literacy training, and community outreach for underserved and displaced learners. Passionate about using education and communication to make a positive contribution to society.
+          </p>
+        </div>
 
-          <!-- EDUCATION & ACADEMIC PERFORMANCE -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Education & Academic Performance</h3>
-            
-            <!-- Edu 1 -->
-            <div style="margin-bottom: 18px;">
-              <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <span style="font-weight: 700; color: #222; font-size: 1.03em;">B.A. in English Communication Arts</span>
-                <span style="color: #777777; font-size: 0.85em; font-weight: 500;">2024 – Present</span>
-              </div>
-              <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px;">
-                <span style="color: #D622CD; font-size: 0.9em; font-weight: 600;">Payap University, Chiang Mai, Thailand</span>
-                <span style="background: #fdf2fc; color: #D622CD; border: 1px solid #f0caee; padding: 2px 10px; border-radius: 12px; font-size: 0.82em; font-weight: 700;">Cumulative GPA: 4.00 / 4.00</span>
-              </div>
+        <!-- EDUCATION & ACADEMIC PERFORMANCE -->
+        <div>
+          <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Education & Academic Performance</h3>
+          
+          <!-- Edu 1 -->
+          <div style="margin-bottom: 16px;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+              <span style="font-weight: 700; color: #222; font-size: 1.03em;">B.A. in English Communication Arts</span>
+              <span style="color: #777777; font-size: 0.85em; font-weight: 500;">2024 – Present</span>
             </div>
-
-            <!-- Edu 2 -->
-            <div style="margin-bottom: 18px;">
-              <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <span style="font-weight: 700; color: #222; font-size: 1.03em;">Associate Degree in Mass Media and Journalism</span>
-                <span style="color: #777777; font-size: 0.85em; font-weight: 500;">2021 – 2024</span>
-              </div>
-              <div style="color: #D622CD; font-size: 0.9em; font-weight: 600; margin-top: 2px;">Mon National College</div>
-            </div>
-
-            <!-- Edu 3 -->
-            <div>
-              <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <span style="font-weight: 700; color: #222; font-size: 1.03em;">Previous Bachelor's Studies in English</span>
-                <span style="color: #777777; font-size: 0.85em; font-weight: 500;">2018 – 2019</span>
-              </div>
-              <div style="color: #D622CD; font-size: 0.9em; font-weight: 600; margin-top: 2px;">Hpa-An University</div>
+            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px;">
+              <span style="color: #D622CD; font-size: 0.9em; font-weight: 600;">Payap University, Chiang Mai, Thailand</span>
+              <span style="background: #fdf2fc; color: #D622CD; border: 1px solid #f0caee; padding: 2px 10px; border-radius: 12px; font-size: 0.82em; font-weight: 700;">Cumulative GPA: 4.00 / 4.00</span>
             </div>
           </div>
 
-          <!-- UNIVERSITY INVOLVEMENT & ACTIVITIES -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">University Involvement & Activities</h3>
-            
-            <div style="margin-bottom: 18px;">
-              <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <span style="font-size: 1.03em; font-weight: 700; color: #222;">Member — Three Zero Club, FuterLink Group</span>
-                <span style="color: #777777; font-size: 0.85em; font-weight: 500;">November 2026</span>
-              </div>
-              <ul style="padding-left: 18px; margin: 6px 0 0 0; color: #444444; font-size: 0.88em; line-height: 1.65;">
-                <li style="margin-bottom: 4px;">Participated in a student-led educational project for GED students.</li>
-                <li>Facilitated a session on Email Writing Using Gmail to help students develop practical digital communication skills.</li>
-              </ul>
+          <!-- Edu 2 -->
+          <div style="margin-bottom: 16px;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+              <span style="font-weight: 700; color: #222; font-size: 1.03em;">Associate Degree in Mass Media and Journalism</span>
+              <span style="color: #777777; font-size: 0.85em; font-weight: 500;">2021 – 2024</span>
             </div>
-
-            <div>
-              <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <span style="font-size: 1.03em; font-weight: 700; color: #222;">Panel Discussion Speaker — Parami University</span>
-              </div>
-              <ul style="padding-left: 18px; margin: 6px 0 0 0; color: #444444; font-size: 0.88em; line-height: 1.65;">
-                <li>Shared perspectives and contributed to an academic discussion.</li>
-              </ul>
-            </div>
+            <div style="color: #D622CD; font-size: 0.9em; font-weight: 600; margin-top: 2px;">Mon National College</div>
           </div>
 
-          <!-- COMMUNITY SERVICE & VOLUNTEER EXPERIENCE -->
-          <div style="margin-bottom: 32px;">
-            <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Community Service & Volunteer Experience</h3>
-            
-            <div>
-              <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <span style="font-size: 1.03em; font-weight: 700; color: #222;">Volunteer — Ban San Sai School, Chiang Rai</span>
-                <span style="color: #777777; font-size: 0.85em; font-weight: 500;">January 2025</span>
-              </div>
-              <ul style="padding-left: 18px; margin: 6px 0 0 0; color: #444444; font-size: 0.88em; line-height: 1.65;">
-                <li style="margin-bottom: 4px;">Participated in volunteer activities supporting the school and its learning environment.</li>
-                <li>Contributed to community service activities and received Volunteer Project Recognition.</li>
-              </ul>
+          <!-- Edu 3 -->
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+              <span style="font-weight: 700; color: #222; font-size: 1.03em;">Previous Bachelor's Studies in English</span>
+              <span style="color: #777777; font-size: 0.85em; font-weight: 500;">2018 – 2019</span>
             </div>
+            <div style="color: #D622CD; font-size: 0.9em; font-weight: 600; margin-top: 2px;">Hpa-An University</div>
+          </div>
+        </div>
+
+        <!-- UNIVERSITY INVOLVEMENT & ACTIVITIES -->
+        <div>
+          <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">University Involvement & Activities</h3>
+          
+          <div style="margin-bottom: 16px;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+              <span style="font-size: 1.03em; font-weight: 700; color: #222;">Member — Three Zero Club, FuterLink Group</span>
+              <span style="color: #777777; font-size: 0.85em; font-weight: 500;">November 2026</span>
+            </div>
+            <ul style="padding-left: 18px; margin: 6px 0 0 0; color: #444444; font-size: 0.88em; line-height: 1.65;">
+              <li style="margin-bottom: 4px;">Participated in a student-led educational project for GED students.</li>
+              <li>Facilitated a session on Email Writing Using Gmail to help students develop practical digital communication skills.</li>
+            </ul>
+          </div>
+
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+              <span style="font-size: 1.03em; font-weight: 700; color: #222;">Panel Discussion Speaker — Parami University</span>
+            </div>
+            <ul style="padding-left: 18px; margin: 6px 0 0 0; color: #444444; font-size: 0.88em; line-height: 1.65;">
+              <li>Shared perspectives and contributed to an academic discussion.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- COMMUNITY SERVICE & VOLUNTEER EXPERIENCE -->
+        <div>
+          <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Community Service & Volunteer Experience</h3>
+          
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+              <span style="font-size: 1.03em; font-weight: 700; color: #222;">Volunteer — Ban San Sai School, Chiang Rai</span>
+              <span style="color: #777777; font-size: 0.85em; font-weight: 500;">January 2025</span>
+            </div>
+            <ul style="padding-left: 18px; margin: 6px 0 0 0; color: #444444; font-size: 0.88em; line-height: 1.65;">
+              <li style="margin-bottom: 4px;">Participated in volunteer activities supporting the school and its learning environment.</li>
+              <li>Contributed to community service activities and received Volunteer Project Recognition.</li>
+            </ul>
           </div>
         </div>
 
         <!-- TEACHING EXPERIENCE & INTERNSHIP -->
         <div>
-          <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Teaching Experience & Internship</h3>
+          <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 16px; border-bottom: 2px solid #D622CD; padding-bottom: 6px;">Teaching Experience & Internship</h3>
           
           <!-- Intern -->
-          <div style="margin-bottom: 18px;">
+          <div style="margin-bottom: 16px;">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
               <span style="font-size: 1.03em; font-weight: 700; color: #222;">English Teaching Intern (Upcoming)</span>
               <span style="color: #777777; font-size: 0.85em; font-weight: 500;">Expected January 2027</span>
@@ -220,7 +216,7 @@
           </div>
 
           <!-- Job 1 -->
-          <div style="margin-bottom: 18px;">
+          <div style="margin-bottom: 16px;">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
               <span style="font-size: 1.03em; font-weight: 700; color: #222;">General English Teacher</span>
               <span style="color: #777777; font-size: 0.85em; font-weight: 500;">2025 – 2026</span>
