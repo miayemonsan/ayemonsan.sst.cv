@@ -1,6 +1,6 @@
+
 <head>
   <meta charset="UTF-8">
-  <!-- Forces mobile screens to scale out and display the 950px wide layout fully -->
   <meta name="viewport" content="width=1200, initial-scale=1.0">
   <title>Aye Mon San - Outstanding Student CV</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -58,40 +58,40 @@
       <!-- LEFT SIDEBAR -->
       <div style="width: 320px; min-width: 320px; background: #faf8fc; padding: 40px 30px; border-right: 1px solid #f5eef4; line-height: 1.7; box-sizing: border-box;">
         
-        <!-- CONTACT -->
+        <!-- CONTACT & DETAILS -->
         <h3 style="color: #D622CD; font-size: 1.05em; text-transform: uppercase; letter-spacing: 1px; margin-top: 0; margin-bottom: 10px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Contact & Details</h3>
-        <div style="font-size: 0.88em; margin-bottom: 28px;">
+        <div style="font-size: 0.88em; margin-bottom: 30px;">
           <p style="margin: 5px 0;"><b>Phone:</b> 092-396-9849</p>
           <p style="margin: 5px 0;"><b>Email:</b> <a href="mailto:miayemonsan34@gmail.com" style="color: #D622CD; text-decoration: none; font-weight: 600;">miayemonsan34@gmail.com</a></p>
           <p style="margin: 5px 0;"><b>Location:</b> Chiang Mai, Thailand</p>
           <p style="margin: 5px 0;"><b>Nationality:</b> Myanmar</p>
         </div>
 
-        <!-- SCHOLARSHIPS & HONORS -->
+        <!-- SCHOLARSHIPS -->
         <h3 style="color: #D622CD; font-size: 1.05em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Scholarships</h3>
-        <ul style="padding-left: 16px; margin: 0 0 28px 0; font-size: 0.88em; color: #333; line-height: 1.55;">
-          <li style="margin-bottom: 8px;">
-            <b>United Board Scholar</b> <span style="color: #666; font-size: 0.9em;">(Current)</span><br>
+        <ul style="padding-left: 16px; margin: 0 0 30px 0; font-size: 0.88em; color: #333; line-height: 1.55;">
+          <li style="margin-bottom: 10px;">
+            <b>United Board Scholar (Current)</b><br>
             <span style="color: #555; font-size: 0.9em;">United Board for Christian Higher Education in Asia</span>
           </li>
-          <li style="margin-bottom: 6px;">
-            <b>DISP Scholar</b> <span style="color: #666; font-size: 0.9em;">(Former)</span><br>
+          <li>
+            <b>DISP Scholar (Former)</b><br>
             <span style="color: #555; font-size: 0.9em;">Diversity and Inclusive Scholarship Program</span>
           </li>
         </ul>
 
         <!-- LANGUAGES -->
         <h3 style="color: #D622CD; font-size: 1.05em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Languages</h3>
-        <ul style="padding-left: 16px; margin: 0 0 28px 0; font-size: 0.88em;">
-          <li style="margin: 4px 0;"><b>Mon</b> <span style="color: #666;">– Native</span></li>
-          <li style="margin: 4px 0;"><b>Burmese</b> <span style="color: #666;">– Fluent</span></li>
-          <li style="margin: 4px 0;"><b>English</b> <span style="color: #666;">– Proficient</span></li>
-          <li style="margin: 4px 0;"><b>Thai</b> <span style="color: #666;">– Basic</span></li>
+        <ul style="padding-left: 16px; margin: 0 0 30px 0; font-size: 0.88em;">
+          <li style="margin: 5px 0;"><b>Mon</b> <span style="color: #666;">– Native</span></li>
+          <li style="margin: 5px 0;"><b>Burmese</b> <span style="color: #666;">– Fluent</span></li>
+          <li style="margin: 5px 0;"><b>English</b> <span style="color: #666;">– Proficient</span></li>
+          <li style="margin: 5px 0;"><b>Thai</b> <span style="color: #666;">– Basic</span></li>
         </ul>
 
-        <!-- RELEVANT CERTIFICATIONS -->
-        <h3 style="color: #D622CD; font-size: 1.05em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Relevant Certifications</h3>
-        <ul style="padding-left: 16px; margin: 0 0 28px 0; font-size: 0.85em; color: #444444; line-height: 1.6;">
+        <!-- CERTIFICATIONS -->
+        <h3 style="color: #D622CD; font-size: 1.05em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Certifications</h3>
+        <ul style="padding-left: 16px; margin: 0; font-size: 0.85em; color: #444444; line-height: 1.6;">
           <li style="margin: 5px 0;">TEFL Certification</li>
           <li style="margin: 5px 0;">Teaching English to Refugees and Displaced Learners</li>
           <li style="margin: 5px 0;">Teaching English in Primary Education</li>
@@ -99,15 +99,6 @@
           <li style="margin: 5px 0;">Understanding Language Systems</li>
           <li style="margin: 5px 0;">Gender in Language Education</li>
         </ul>
-
-        <!-- ONLINE PRESENCE -->
-        <h3 style="color: #D622CD; font-size: 1.05em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Online Presence</h3>
-        <div style="font-size: 0.84em;">
-          <p style="margin: 4px 0; font-weight: 600; color: #222;">LinkedIn Profile</p>
-          <a href="https://www.linkedin.com/in/aye-mon-san-7ab968390/" target="_blank" style="color: #D622CD; text-decoration: none; word-break: break-all;">
-            linkedin.com/in/aye-mon-san-7ab968390
-          </a>
-        </div>
 
       </div>
 
@@ -155,25 +146,25 @@
 
         <!-- AWARDS & RECOGNITION -->
         <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Awards & Recognition</h3>
-        <ul style="padding-left: 18px; margin: 0 0 26px 0; color: #444444; font-size: 0.87em; line-height: 1.6;">
-          <li style="margin-bottom: 4px;"><b>Academic Excellence Award</b> – Payap University</li>
-          <li style="margin-bottom: 4px;"><b>Best Presentation Award</b> – Payap University Academic Seminar</li>
-          <li style="margin-bottom: 4px;"><b>Talent Show Award</b> – Payap University Open House</li>
-          <li style="margin-bottom: 4px;"><b>Environmental Video Competition Recognition</b> – Payap University</li>
-          <li><b>Volunteer Project Recognition</b> – Ban San Sai School</li>
+        <ul style="padding-left: 18px; margin: 0 0 26px 0; color: #444444; font-size: 0.88em; line-height: 1.65;">
+          <li style="margin-bottom: 4px;">Academic Excellence Award – Payap University</li>
+          <li style="margin-bottom: 4px;">Best Presentation Award – Payap University Academic Seminar</li>
+          <li style="margin-bottom: 4px;">Talent Show Recognition – Payap University Open House</li>
+          <li style="margin-bottom: 4px;">Environmental Video Competition Recognition – Payap University</li>
+          <li>Volunteer Project Recognition – Ban San Sai School</li>
         </ul>
 
         <!-- UNIVERSITY INVOLVEMENT & ACTIVITIES -->
         <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">University Involvement & Activities</h3>
         
-        <div style="margin-bottom: 16px;">
+        <div style="margin-bottom: 14px;">
           <div style="display: flex; justify-content: space-between; align-items: baseline;">
             <span style="font-size: 1.02em; font-weight: 700; color: #222;">Member — Three Zero Club, FuterLink Group</span>
             <span style="color: #777777; font-size: 0.84em; font-weight: 500;">November 2026</span>
           </div>
-          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.86em;">
+          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.87em; line-height: 1.6;">
             <li style="margin-bottom: 3px;">Participated in a student-led educational project for GED students.</li>
-            <li>Facilitated a session on <i>Email Writing Using Gmail</i> to help students develop practical digital communication skills.</li>
+            <li>Facilitated a session on Email Writing Using Gmail to help students develop practical digital communication skills.</li>
           </ul>
         </div>
 
@@ -181,7 +172,7 @@
           <div style="display: flex; justify-content: space-between; align-items: baseline;">
             <span style="font-size: 1.02em; font-weight: 700; color: #222;">Panel Discussion Speaker — Parami University</span>
           </div>
-          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.86em;">
+          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.87em; line-height: 1.6;">
             <li>Shared perspectives and contributed to an academic discussion.</li>
           </ul>
         </div>
@@ -189,36 +180,27 @@
         <!-- COMMUNITY SERVICE & VOLUNTEER EXPERIENCE -->
         <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Community Service & Volunteer Experience</h3>
         
-        <div style="margin-bottom: 16px;">
+        <div style="margin-bottom: 26px;">
           <div style="display: flex; justify-content: space-between; align-items: baseline;">
             <span style="font-size: 1.02em; font-weight: 700; color: #222;">Volunteer — Ban San Sai School, Chiang Rai</span>
             <span style="color: #777777; font-size: 0.84em; font-weight: 500;">January 2025</span>
           </div>
-          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.86em;">
+          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.87em; line-height: 1.6;">
             <li style="margin-bottom: 3px;">Participated in volunteer activities supporting the school and its learning environment.</li>
-            <li>Contributed to community service activities and received <b>Volunteer Project Recognition</b>.</li>
+            <li>Contributed to community service activities and received Volunteer Project Recognition.</li>
           </ul>
         </div>
 
-        <div style="margin-bottom: 26px;">
-          <div style="display: flex; justify-content: space-between; align-items: baseline;">
-            <span style="font-size: 1.02em; font-weight: 700; color: #222;">Educational Support for Displaced Learners</span>
-          </div>
-          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.86em;">
-            <li>Participated in educational outreach and language support activities for underserved and displaced young learners.</li>
-          </ul>
-        </div>
-
-        <!-- TEACHING EXPERIENCE & UPCOMING INTERNSHIP -->
+        <!-- TEACHING EXPERIENCE & INTERNSHIP -->
         <h3 style="color: #D622CD; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; border-bottom: 2px solid #D622CD; padding-bottom: 5px;">Teaching Experience & Internship</h3>
         
-        <!-- Upcoming Internship -->
-        <div style="margin-bottom: 16px; background: #fdf8fd; padding: 10px 14px; border-left: 3px solid #D622CD; border-radius: 0 8px 8px 0;">
+        <!-- Intern -->
+        <div style="margin-bottom: 16px;">
           <div style="display: flex; justify-content: space-between; align-items: baseline;">
-            <span style="font-size: 1em; font-weight: 700; color: #222;">English Teaching Intern <span style="color: #D622CD; font-weight: 600; font-size: 0.85em;">(Upcoming)</span></span>
-            <span style="color: #D622CD; font-size: 0.84em; font-weight: 600;">Expected January 2027</span>
+            <span style="font-size: 1.02em; font-weight: 700; color: #222;">English Teaching Intern (Upcoming)</span>
+            <span style="color: #777777; font-size: 0.84em; font-weight: 500;">Expected January 2027</span>
           </div>
-          <div style="color: #555555; font-weight: 500; font-size: 0.88em; margin-top: 2px;">Nakornpayap International School</div>
+          <div style="color: #D622CD; font-weight: 600; font-size: 0.88em;">Nakornpayap International School</div>
         </div>
 
         <!-- Job 1 -->
@@ -227,8 +209,8 @@
             <span style="font-size: 1.02em; font-weight: 700; color: #222;">General English Teacher</span>
             <span style="color: #777777; font-size: 0.84em; font-weight: 500;">2025 – 2026</span>
           </div>
-          <div style="color: #D622CD; font-weight: 600; font-size: 0.88em; margin-bottom: 3px;">Poy English Program (Online)</div>
-          <ul style="padding-left: 18px; margin: 0; color: #444444; font-size: 0.86em;">
+          <div style="color: #D622CD; font-weight: 600; font-size: 0.88em; margin-bottom: 4px;">Poy English Program (Online)</div>
+          <ul style="padding-left: 18px; margin: 0; color: #444444; font-size: 0.86em; line-height: 1.6;">
             <li style="margin-bottom: 3px;">Delivered English lessons focusing on practical speaking, grammar, and pronunciation.</li>
             <li>Prepared learner-centered activities to support students' communication skills.</li>
           </ul>
@@ -240,7 +222,7 @@
             <span style="font-size: 1.02em; font-weight: 700; color: #222;">Freelance English Tutor</span>
             <span style="color: #777777; font-size: 0.84em; font-weight: 500;">September 2024 – Present</span>
           </div>
-          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.86em;">
+          <ul style="padding-left: 18px; margin: 4px 0 0 0; color: #444444; font-size: 0.86em; line-height: 1.6;">
             <li style="margin-bottom: 3px;">Provided individual and small-group English lessons.</li>
             <li>Supported learners in speaking, pronunciation, vocabulary, and grammar.</li>
           </ul>
@@ -249,3 +231,4 @@
       </div>
     </div>
   </div>
+
