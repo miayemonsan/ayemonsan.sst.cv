@@ -83,7 +83,7 @@
           <ul style="padding-left: 18px; margin: 0; color: #333; font-size: 0.88em; line-height: 1.65;">
             <li style="margin-bottom: 8px;"><b>Academic Excellence Award</b><br><span style="color: #666;">Payap University</span></li>
             <li style="margin-bottom: 8px;"><b>Best Presentation Award</b><br><span style="color: #666;">Payap University Academic Seminar</span></li>
-            <li style="margin-bottom: 8px;"><b>Talent Show Award</b><br><span style="color: #666;">Payap University Open House</span></li>
+            <li style="margin-bottom: 8px;"><b>Talent Show Recognition</b><br><span style="color: #666;">Payap University Open House</span></li>
             <li style="margin-bottom: 8px;"><b>Environmental Video Competition Recognition</b><br><span style="color: #666;">Payap University</span></li>
             <li><b>Volunteer Project Recognition</b><br><span style="color: #666;">Ban San Sai School</span></li>
           </ul>
@@ -209,8 +209,8 @@
           <!-- Intern -->
           <div style="margin-bottom: 16px;">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
-              <span style="font-size: 1.03em; font-weight: 700; color: #222;">English Teaching Intern (Upcoming)</span>
-              <span style="color: #777777; font-size: 0.85em; font-weight: 500;">Expected January 2027</span>
+              <span style="font-size: 1.03em; font-weight: 700; color: #222;">Teaching Assistance Intern (Upcoming)</span>
+              <span style="color: #777777; font-size: 0.85em; font-weight: 500;">January 2027</span>
             </div>
             <div style="color: #D622CD; font-weight: 600; font-size: 0.9em; margin-top: 2px;">Nakornpayap International School</div>
           </div>
